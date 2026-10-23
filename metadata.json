@@ -1,0 +1,6 @@
+{
+  "name": "My Daily Brain Portal",
+  "description": "脳トレ・漢字・教養雑学・時事ニュース記憶を1つに統合した自分専用のデイリー知的ポータル",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

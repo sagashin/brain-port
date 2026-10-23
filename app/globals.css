@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-sans), "Noto Sans JP", sans-serif;
+  --font-display: var(--font-display), var(--font-sans), "Noto Sans JP", sans-serif;
+  --font-mono: var(--font-mono), var(--font-sans), "Noto Sans JP", monospace;
+}
